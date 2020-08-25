@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>css/welcome.css</file>
+        <file>files/projects.xml</file>
+        <file>welcome.qml</file>
+        <file>ProjectDelegate.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>welcome.qml</file>
+        <file>images/PText.png</file>
+        <file>images/add.svg</file>
+        <file>images/folder.svg</file>
+    </qresource>
+</RCC>
